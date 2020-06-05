@@ -16,25 +16,25 @@ that all the text label need
 程式會將標註為 textbox 的文字框都切割，但是標註為 text 的都不會動，而且只會做 VOC 格式的 XML，因為我只需要這個
 
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-001.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-001.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-002.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-002.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-003.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-003.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-004.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-004.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-005.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-005.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-006.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-006.JPG" width="100%">
 </div>
 <div>
-    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-007.JPG" width="70%">
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-007.JPG" width="100%">
 </div>
 
 
