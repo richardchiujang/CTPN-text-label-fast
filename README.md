@@ -1,7 +1,8 @@
 # CTPN-use-labelImg-text-label-fast
 
 reqiured :
-labelImg tool \n
+labelImg tool 
+
 https://github.com/tzutalin/labelImg.git
 
 
