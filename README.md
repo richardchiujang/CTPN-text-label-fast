@@ -17,12 +17,24 @@ that all the text label need
 
 <div>
     <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-001.JPG" width="45%">
+</div>
+<div>
     <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-002.JPG" width="45%">
+</div>
+<div>
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-003.JPG" width="45%">
+</div>
+<div>
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-004.JPG" width="45%">
+</div>
+<div>
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-005.JPG" width="45%">
+</div>
+<div>
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-006.JPG" width="45%">
+</div>
+<div>
+    <img src="https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-007.JPG" width="45%">
 </div>
 
 
-https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-003.JPG
-https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-004.JPG
-https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-005.JPG
-https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-006.JPG
-https://github.com/richardchiujang/CTPN-use-labelImg-text-label-fast/blob/master/2020-06-05-007.JPG
